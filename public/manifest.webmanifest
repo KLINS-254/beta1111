@@ -1,0 +1,10 @@
+{
+  "name": "ADBETA Rewards",
+  "short_name": "ADBETA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#101a2b",
+  "description": "ADBETA community and advertising rewards platform",
+  "icons": []
+}
